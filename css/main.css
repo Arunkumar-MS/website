@@ -54,7 +54,7 @@ body{
   font-size: 24px;
    }
   .navbar{
-  background-image: url("../website/images/test-background.gif");
+  background-image: url("/website/images/test-background.gif");
  
 }
 
@@ -71,7 +71,7 @@ body{
 }
 
 .nav-main{
-  background-image: url("../website/images/nav-bg.jpg");
+  background-image: url("/website/images/nav-bg.jpg");
       background-size: 100% 121px;
        
 
